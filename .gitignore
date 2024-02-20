@@ -1,1 +1,7 @@
 data/*.txt
+#comment 
+# * matches 0 or more  char
+# ? matches 1 char
+# [abc] matches a,b or c  
+# *** matches nested directories   
+#ex a/**/z maches --- a/z , a/b/z , a/b/c/z
